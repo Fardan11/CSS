@@ -28,6 +28,11 @@ a:active {
 
 .btn {
   background-color: black;
+  text-transform: uppercase;
   color: aliceblue;
   padding-left: 0px;
+  cursor: pointer;
+}
+.btn:hover {
+  color: red;
 }
